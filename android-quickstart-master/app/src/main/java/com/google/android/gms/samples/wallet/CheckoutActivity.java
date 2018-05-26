@@ -38,6 +38,9 @@ import com.google.android.gms.wallet.PaymentMethodToken;
 import com.google.android.gms.wallet.PaymentsClient;
 import com.google.android.gms.wallet.TransactionInfo;
 
+// GOOGLE PAY RELATED CODE {
+// } END GOOGLE PAY RELATED CODE
+
 public class CheckoutActivity extends Activity {
     // Arbitrarily-picked result code.
     private static final int LOAD_PAYMENT_DATA_REQUEST_CODE = 991;
